@@ -1,0 +1,3 @@
+D:/Facultate/An 2/sem 1/af/lab2/cmake-build-release/CMakeFiles/lab2.dir
+D:/Facultate/An 2/sem 1/af/lab2/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/Facultate/An 2/sem 1/af/lab2/cmake-build-release/CMakeFiles/rebuild_cache.dir
