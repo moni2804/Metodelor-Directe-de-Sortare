@@ -1,4 +1,4 @@
-# Tema 1: Analiza și Compararea Metodelor Directe de Sortare
+# Analiza și Compararea Metodelor Directe de Sortare
 
 ## Descriere
 Această temă presupune implementarea și compararea a trei metode directe de sortare:
